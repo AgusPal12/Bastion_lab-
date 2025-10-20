@@ -74,7 +74,7 @@
 
 ![alt text](ScreenShots/JumpServer_Running.jpg)
 
-## Details du compte de la ressource:
+## Details du compte de la ressource :
 
 ![alt text](<ScreenShots/JumpServer_ Asset_Add -account.jpg>)
 
