@@ -1,6 +1,6 @@
 # Brief : "Mise en place d'un bastion pour votre infrastructure"
 
-### Contexte du projet : "En tant que administrateur réseau, administrer déployer un bastion.Mise en oeuvre un bastion pour donner accès aux ressources de l'entreprise aux utilisateurs en mobilité et aux partenaires."
+### Contexte du projet : "En tant que administrateur réseau, administrer déployer un bastion pour donner accès aux ressources de l'entreprise aux utilisateurs en mobilité et aux partenaires."
 
 ## Etude comparative des solutions de Bastion
 
@@ -53,7 +53,7 @@
     
     - VM : 106 (BastionAPalacios) - PC ou le bastion a été installé.
     
-    - Ressource : Machine virtuelle 114 (Bastion-Anthony) - Joue le rol d'un machine à protéger derrière un bastion.
+    - Ressource : Machine virtuelle 114 (Bastion-Anthony) - Joue le rol d'une machine à protéger derrière un bastion.
 
 
 # Captures d’écrans :
